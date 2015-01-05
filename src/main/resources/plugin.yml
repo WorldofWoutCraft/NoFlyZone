@@ -1,0 +1,11 @@
+ name: NoFlyZone
+ version: 1.0
+ description: NoFlyZones disable /fly
+ author: woutwoot
+ website: http://woutwoot.com/
+ main: com.woutwoot.noflyzone.Main
+ commands:
+   noflyzone:
+      description: Main NoFlyZone command.
+      usage: Syntax error!
+      permission: noflyzone.setup
